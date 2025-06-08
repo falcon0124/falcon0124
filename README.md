@@ -1,12 +1,10 @@
-# 👋 Hi, I'm Sangam Saurav
+Hi there! I'm Sangam Saurav — a passionate **Full Stack Developer** with a strong focus on both **frontend** and **backend** technologies.
 
-I'm a full-stack web developer passionate about building impactful and scalable applications.
+- 🔭 In **Frontend**, I craft responsive, dynamic websites and even immersive **3D web experiences** using tools like React Three Fiber and Three.js.
+- 🧩 On the **Backend**, I build robust **RESTful servers**, handle authentication, and manage real-time interactions using technologies like Express and WebSockets.
+- 🚀 I'm continuously learning and love building full-stack applications from scratch — from database models to deployment.
 
-💡 I specialize in:
-- Creating full-stack web apps using **Node.js**, **Express**, and **MongoDB**
-- Building responsive UIs with **React**, **HTML**, **CSS**, and **JavaScript**
-- Designing robust REST APIs and handling backend logic and authentication
-- Deploying scalable applications with modern tools and platforms
+Let's build something amazing!
 
 ---
 
@@ -22,6 +20,7 @@ I'm a full-stack web developer passionate about building impactful and scalable 
 
 
 ### 🧩 Frameworks & Libraries  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
 ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff)  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
