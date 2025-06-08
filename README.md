@@ -1,4 +1,8 @@
 Hi there! I'm Sangam Saurav — a passionate **Full Stack Developer** with a strong focus on both **frontend** and **backend** technologies.
+<img src="https://your-hosted-3d-image.png" width="400"/>
+
+> *“Crafting code with depth — building responsive & 3D web worlds.”*
+
 
 - 🔭 In **Frontend**, I craft responsive, dynamic websites and even immersive **3D web experiences** using tools like React Three Fiber and Three.js.
 - 🧩 On the **Backend**, I build robust **RESTful servers**, handle authentication, and manage real-time interactions using technologies like Express and WebSockets.
