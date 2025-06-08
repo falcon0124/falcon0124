@@ -67,6 +67,42 @@
 ✅ Time Management  
 
 ---
+## 💼 Projects
+
+Here are some of my notable projects:
+
+### 🚀 Portfolio 3D Website
+A visually immersive portfolio website built with **React Three Fiber**, **Three.js**, and **GLTF** models.
+- 🧠 Tech: `React`, `R3F`, `GLTF`, `SCSS`, `Responsive Design`
+- 🌐 [Live Demo](https://portfolio-3-d-neon-gamma.vercel.app) | 📂 [Code](https://github.com/falcon0124/portfolio-3d)
+
+---
+
+### 🔗 URL Shortener API
+Built a backend service for shortening URLs with analytics on each visit.
+- ⚙️ Tech: `Node.js`, `Express`, `MongoDB`, `REST API`, `Mongoose`
+- 📂 [Code](https://github.com/falcon0124/url-shortener-api)
+
+---
+
+### 🎮 RPG Web Game
+A fun browser-based RPG with inventory and combat, built with pure JavaScript and modular design.
+- ⚙️ Tech: `HTML`, `CSS`, `JavaScript`, `Canvas`
+- 📂 [Code](https://github.com/falcon0124/rpg-game)
+
+---
+### 🧪 C Image Filter Program
+
+A **C-based image processor** that manipulates `.bmp` files at the **pixel level**.
+
+- 🎨 Applies **grayscale**, **sepia**, and **reflect** filters  
+- 🧠 Hands-on with **pointers** and **struct-based memory access**  
+- 🔍 Great for understanding **low-level image manipulation**  
+
+> ⚙️ **Tech Stack**: `C`, `Memory Management`, `BMP`, `CLI Tools`
+
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -80,6 +116,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=falcon0124&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 
 ## 📫 Let's Connect
