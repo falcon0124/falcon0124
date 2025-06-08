@@ -16,12 +16,12 @@
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)   &nbsp; | &nbsp;  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)   &nbsp; | &nbsp;  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)   &nbsp; | &nbsp;  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)   &nbsp; | &nbsp;  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff)   &nbsp; | &nbsp;  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  &nbsp; | &nbsp;  
 
 
 ### 🧩 Frameworks & Libraries  
