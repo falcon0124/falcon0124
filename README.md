@@ -8,16 +8,35 @@ I'm a full-stack web developer passionate about building impactful and scalable 
 - Developing RESTful APIs and implementing secure authentication flows
 - Building efficient back-end systems with robust database schemas
 
+---
+
 ## 🛠 Tech Stack
-**Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
-![Express](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+### 👨‍💻 Languages
+- JavaScript
+- HTML5
+- CSS3
+
+### 🧩 Frameworks & Libraries
+- Node.js
+- Express.js
+- React
+
+### ⚙️ Production & Tools
+- MongoDB & Mongoose
+- Git & GitHub
+- Postman
+- VS Code
+- Netlify / Vercel
+
+### 💼 Soft Skills
+- Team Collaboration
+- Problem Solving
+- Adaptability
+- Communication
+- Time Management
+
+---
 
 ## 📫 Let's Connect
 I'm always open to collaborating on exciting web projects or discussing ideas.  
