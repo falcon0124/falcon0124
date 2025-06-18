@@ -80,14 +80,14 @@ A **C-based image processor** that manipulates `.bmp` files at the **pixel level
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=falcon0124&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=falcon0124&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcon0124&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcon0124&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="180"/>
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=falcon0124&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=falcon0124&theme=radical&cache_seconds=1800" alt="GitHub Streak" />
 </p>
 
 
