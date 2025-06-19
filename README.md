@@ -44,51 +44,46 @@
 
 Here are some of my notable projects:
 
-### 🚀 Portfolio 3D Website
-A visually immersive portfolio website built with **React Three Fiber**, **Three.js**, and **GLTF** models.
-- 🧠 Tech: `React`, `R3F`, `GLTF`, `SCSS`, `Responsive Design`
-- 🌐 [Live Demo](https://portfolio-3-d-neon-gamma.vercel.app) | 📂 [Code](https://github.com/falcon0124/portfolio-3d)
-
 ---
-# 🏫 School Management API
 
-A Node.js and Express-based RESTful API that allows users to add schools and retrieve a list of 
-schools sorted by geographical proximity. Built using MySQL for data storage and deployed via Render with a Railway-hosted database.
+### 🚀 Portfolio 3D Website  
+A visually immersive portfolio site using 3D models and animations for interactive storytelling.
 
-- Add new schools with location data (latitude & longitude)
-- Retrieve all schools sorted by proximity to a given user location
-- RESTful API structure with input validation
-- Hosted on Render, using Railway's MySQL cloud database
-- Tested and documented with Postman
+- ⚙️ **Tech Stack:** `React`, `React Three Fiber`, `Three.js`, `GLTF`, `SCSS`
+- 🌐 [Live Demo](https://portfolio-3-d-neon-gamma.vercel.app)  
+- 📂 [GitHub Code](https://github.com/falcon0124/portfolio-3d)
 
 ---
 
-## 🛠 Tech Stack
+### 🏫 School Management API  
+A full-stack RESTful API to add and list schools by user proximity, using Haversine distance calculation.
 
-- **Backend:** Node.js, Express.js
-- **Database:** MySQL (hosted on Railway)
-- **Hosting:** Render (Web Service)
-- **Testing:** Postman
+- ⚙️ **Tech Stack:** `Node.js`, `Express.js`, `MySQL`, `Render`, `Railway`, `Postman`
+- ➕ Add schools with latitude/longitude
+- 📍 List schools sorted by distance to the user’s location
+- 🌐 [Live API](https://schooldb-api-ag2r.onrender.com/api/listSchools?latitude=25.6&longitude=85.1)  
+- 📂 [GitHub Code](https://github.com/falcon0124/schoolDB) 
 
+---
+
+### 🎮 RPG Web Game  
+A browser-based RPG with basic combat, inventory, and animations using pure JavaScript.
+
+- ⚙️ **Tech Stack:** `HTML`, `CSS`, `JavaScript`, `Canvas API`
+- 👾 Custom game logic and event handling with modular JS
+- 📂 [GitHub Code](https://github.com/falcon0124/rpg-game)
 
 ---
 
-### 🎮 RPG Web Game
-A fun browser-based RPG with inventory and combat, built with pure JavaScript and modular design.
-- ⚙️ Tech: `HTML`, `CSS`, `JavaScript`, `Canvas`
-- 📂 [Code](https://github.com/falcon0124/rpg-game)
+### 🧪 C Image Filter Program  
+A CLI-based image processing tool for `.bmp` files with filter effects built in C.
+
+- ⚙️ **Tech Stack:** `C`, `BMP`, `Memory Management`, `CLI`
+- 🎨 Supports grayscale, sepia, and reflect filters
+- 🧠 Manipulates pixel data via pointers and structs
+- 📂 [GitHub Code](https://github.com/falcon0124/Filter) 
 
 ---
-### 🧪 C Image Filter Program
-
-A **C-based image processor** that manipulates `.bmp` files at the **pixel level**.
-
-- 🎨 Applies **grayscale**, **sepia**, and **reflect** filters  
-- 🧠 Hands-on with **pointers** and **struct-based memory access**  
-- 🔍 Great for understanding **low-level image manipulation**  
-
-> ⚙️ **Tech Stack**: `C`, `Memory Management`, `BMP`, `CLI Tools`
-
 
 
 ## 📊 GitHub Stats
