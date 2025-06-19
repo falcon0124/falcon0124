@@ -24,7 +24,8 @@
 
 
 ### ⚙️ Production & Tools  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)  ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff)  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=fff)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)  ![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=fff)  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff) ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 #### 🌐 Web Technologies  
 ![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websockets&logoColor=white)  ![RESTful API](https://img.shields.io/badge/-REST_API-FF6F00?logo=api&logoColor=white)  ![Web](https://img.shields.io/badge/-Web_Development-4285F4?logo=google-chrome&logoColor=white)
