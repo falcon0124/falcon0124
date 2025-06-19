@@ -20,7 +20,8 @@
 
 
 ### 🧩 Frameworks & Libraries  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000?logo=three.js&logoColor=white)  ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  ![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=fff)  ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  ![React Three Fiber](https://img.shields.io/badge/-React%20Three%20Fiber-000?logo=three.js&logoColor=white)  ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)  ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  ![SASS](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 
 
 ### ⚙️ Production & Tools  
@@ -28,7 +29,7 @@
 ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 
 #### 🌐 Web Technologies  
-![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websockets&logoColor=white)  ![RESTful API](https://img.shields.io/badge/-REST_API-FF6F00?logo=api&logoColor=white)  ![Web](https://img.shields.io/badge/-Web_Development-4285F4?logo=google-chrome&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-000000?logo=websockets&logoColor=white)  ![RESTful API](https://img.shields.io/badge/-REST_API-FF6F00?logo=api&logoColor=white) ![Web](https://img.shields.io/badge/-Web_Development-4285F4?logo=google-chrome&logoColor=white)
 
 #### 🗄️ Databases & Servers  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  ![DBMS](https://img.shields.io/badge/-DBMS-4DB33D?logo=database&logoColor=white)  ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
