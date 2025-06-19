@@ -50,11 +50,26 @@ A visually immersive portfolio website built with **React Three Fiber**, **Three
 - 🌐 [Live Demo](https://portfolio-3-d-neon-gamma.vercel.app) | 📂 [Code](https://github.com/falcon0124/portfolio-3d)
 
 ---
+# 🏫 School Management API
 
-### 🔗 URL Shortener API
-Built a backend service for shortening URLs with analytics on each visit.
-- ⚙️ Tech: `Node.js`, `Express`, `MongoDB`, `REST API`, `Mongoose`
-- 📂 [Code](https://github.com/falcon0124/url-shortener-api)
+A Node.js and Express-based RESTful API that allows users to add schools and retrieve a list of 
+schools sorted by geographical proximity. Built using MySQL for data storage and deployed via Render with a Railway-hosted database.
+
+- Add new schools with location data (latitude & longitude)
+- Retrieve all schools sorted by proximity to a given user location
+- RESTful API structure with input validation
+- Hosted on Render, using Railway's MySQL cloud database
+- Tested and documented with Postman
+
+---
+
+## 🛠 Tech Stack
+
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL (hosted on Railway)
+- **Hosting:** Render (Web Service)
+- **Testing:** Postman
+
 
 ---
 
