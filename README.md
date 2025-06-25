@@ -88,19 +88,6 @@ A CLI-based image processing tool for .bmp files with filter effects built in C.
 ---
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=falcon0124&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=falcon0124&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-
-</div>
-
-
-
-
 ## 📫 Contact Me
 
 [![Phone](https://img.shields.io/badge/📞-Phone-blue?style=flat-square)](tel:+919113107680)  
