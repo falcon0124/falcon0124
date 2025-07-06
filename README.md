@@ -76,7 +76,7 @@ A full-stack MERN-based E-Commerce web app with JWT authentication, product and 
 - 🛒 Add products, place orders, and view order history
 - 🛠️ Admin panel for managing users, products, and updating order status
 - 🌐 Live Website
-- 📂 GitHub Code
+- 📂 [GitHub Code](https://github.com/falcon0124/E-commerce) 
 
 ---
 
