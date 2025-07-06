@@ -68,12 +68,15 @@ A full-stack RESTful API to add and list schools by user proximity, using Havers
 
 ---
 
-### 🎮 RPG Web Game  
-A browser-based RPG with basic combat, inventory, and animations using pure JavaScript.
+### 🛍️ E-Commerce Platform
+A full-stack MERN-based E-Commerce web app with JWT authentication, product and order management, and a dynamic admin dashboard.
 
-- ⚙️ **Tech Stack:** HTML, CSS, JavaScript, Canvas API
-- 👾 Custom game logic and event handling with modular JS
-- 📂 [GitHub Code](https://github.com/falcon0124/rpg-game)
+-⚙️ Tech Stack: React (Vite), Node.js, Express.js, MongoDB, Tailwind CSS, JWT Auth
+-👤 Register, log in, and manage user profiles
+-🛒 Add products, place orders, and view order history
+-🛠️ Admin panel for managing users, products, and updating order status
+-🌐 Live Website
+-📂 GitHub Code
 
 ---
 
