@@ -90,8 +90,5 @@ A CLI-based image processing tool for .bmp files with filter effects built in C.
 
 ## 📫 Contact Me
 
-[![Phone](https://img.shields.io/badge/📞-Phone-blue?style=flat-square)](tel:+919113107680)  
-[![Email](https://img.shields.io/badge/✉️-Email-red?style=flat-square)](mailto:sangamsh04@gmail.com)  
-[![Location](https://img.shields.io/badge/📍-Location-green?style=flat-square)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangam911/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falcon0124)
+[![Phone](https://img.shields.io/badge/📞-Phone-blue?style=flat-square)](tel:+919113107680)  [![Email](https://img.shields.io/badge/✉️-Email-red?style=flat-square)](mailto:sangamsh04@gmail.com)  
+[![Location](https://img.shields.io/badge/📍-Location-green?style=flat-square)](#)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangam911/)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/falcon0124)
