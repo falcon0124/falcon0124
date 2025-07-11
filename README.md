@@ -75,7 +75,7 @@ A full-stack MERN-based E-Commerce web app with JWT authentication, product and 
 - 👤 Register, log in, and manage user profiles
 - 🛒 Add products, place orders, and view order history
 - 🛠️ Admin panel for managing users, products, and updating order status
-- 🌐 Live Website
+- 🌐 [Live Website](https://charming-naiad-d6516a.netlify.app)
 - 📂 [GitHub Code](https://github.com/falcon0124/E-commerce) 
 
 ---
