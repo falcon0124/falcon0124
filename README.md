@@ -18,11 +18,7 @@
 ## 🛠 Tech Stack  
 
 ### 💻 **Programming Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  || ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  || ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff)  || ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=fff)  || ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)  
 
 ### 🌐 **Web Development**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
